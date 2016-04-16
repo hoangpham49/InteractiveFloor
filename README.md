@@ -1,2 +1,0 @@
-# InteractiveFloor
-interactive floor

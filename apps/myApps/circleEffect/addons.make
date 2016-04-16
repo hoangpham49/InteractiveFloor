@@ -1,0 +1,6 @@
+ofxGui
+ofxOpenCv
+ofxXmlSettings
+ofxFX
+ofxInteractiveSurface
+ofxKinectNui
